@@ -1,0 +1,4 @@
+Intermediate
+Mockups
+Config
+.pdb
