@@ -1,4 +1,5 @@
 # DataWise
+DataWise is a gameplay analytics plugin for Unreal Engine 4. It allows developers to record and analyze gameplay related datapoints.
 
 # Building
 The plugin is part of a test application. This can be found in `AnalyticsTestProject`.
